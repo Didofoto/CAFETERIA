@@ -1,0 +1,39 @@
+
+body{ 
+    background-color: rgb(251, 232, 180);
+    background-image: url(img/la-dolce-ta2.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+nav {
+    height: 75px;
+    background-image: url(img/cabecera.jpg);
+    background-position: center;
+    background-size: cover;
+    font-family:content;
+    display: flex;
+    justify-content: flex-start;
+    gap:10px;
+    margin:0;
+    padding:0;
+    padding-left:80px;
+}
+
+nav a{
+    margin:12px;
+    display:inherit;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-decoration: none;
+    background-color: rgb(6, 15, 15);
+    padding: 10px 12px;
+    color: rgb(247, 173, 83);
+    border-radius: 5px;
+
+}
+
+.parrafoIntro {
+    color: rgb(1, 12, 12);
+}

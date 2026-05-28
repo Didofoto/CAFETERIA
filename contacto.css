@@ -1,0 +1,43 @@
+body{
+    background-color: blanchedalmond;
+    margin:0px;
+    padding:0px ;
+
+}
+
+h1 {
+    text-align: center;
+    background-color: rgb(249, 185, 106);
+    font-family: 'Libre Baskerville', sans-serif;
+    padding: 20px;
+
+}
+
+.formulario{
+
+    display: flex;
+    flex-direction: column;
+    margin: 30px;
+
+    
+}
+
+.formulario
+input
+{
+    width: 300px;
+
+}
+.formulario
+button {
+    width: 100px;
+
+}
+ iframe {
+    margin: 30px;
+ }
+
+ footer{
+    margin: 30px;
+    
+ }
